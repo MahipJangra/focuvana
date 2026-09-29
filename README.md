@@ -54,4 +54,4 @@ If you previously installed a development/debug build from Android Studio, the r
 
 Focuvana is an early version. App blocking is a return-to-home action, not an unbreakable device lock. Behaviour may vary by phone. Daily screen-time limits, scheduled sessions, and completion notifications are not included yet.
 
-This repository distributes the Android APK. An APK-only release does not provide open-source code.
+This repository provides the Focuvana Android APK for download. The source code is not publicly included. To request access, contact **mahipjangra8@gmail.com**.
